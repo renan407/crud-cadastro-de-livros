@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    margin: auto;
+    margin: 15px;
+    background-color: #e0f2f1;
+}
+section {
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 0 0 2px 2px;
+    background-color: #FFF;
+    margin: auto;
+    width: 650px;
+}
+h1 {
+    color: #616161;
+    text-align: center;
+    margin-bottom: 30px;
+}
+h2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+form {
+    margin: auto;
+    width: 650px;
+}
+legend {
+    margin-bottom: 20px;
+}
+.personalizado {
+    background: #32cd32;
+    border-radius: 6px;
+    padding: 15px;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+}
+.personalizado2 {
+    background: #EEA104;
+    border-radius: 6px;
+    padding: 15px;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+}
